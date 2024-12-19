@@ -1,0 +1,11 @@
+Flask==2.0.1
+Flask-Bcrypt==1.0.1
+Flask-Login==0.5.0
+Flask-SQLAlchemy==2.5.1
+Werkzeug==2.0.3
+SQLAlchemy==1.4.46
+PyJWT==2.4.0
+python-dotenv
+Flask-Migrate
+psycopg2-binary
+
